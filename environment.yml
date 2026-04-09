@@ -5,3 +5,7 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
+  - ipywidgets
+  - pandas
+  - matplotlib
+  - faker
